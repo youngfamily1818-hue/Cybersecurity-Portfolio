@@ -1,0 +1,8 @@
+# Nmap Guardian
+# Python 3.10 or newer recommended
+#
+# The application uses Python standard-library modules.
+# No third-party Python packages are required.
+#
+# Nmap must be installed separately:
+# https://nmap.org/download.html
